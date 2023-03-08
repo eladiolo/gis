@@ -11,7 +11,7 @@ public class UserController {
 
 	  // Aggregate root
 	  // tag::get-aggregate-root[]
-	  @GetMapping("/employees")
+	  @GetMapping("/users")
 	  List<String> all() {
 		  List<String> strings = new ArrayList<>();
 		  strings.add("Hola");
