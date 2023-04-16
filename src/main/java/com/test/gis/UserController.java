@@ -17,6 +17,7 @@ public class UserController {
 		  List<String> strings = new ArrayList<>();
 		  strings.add("Hola");
 		  strings.add("Adios");
+		  strings.add("Hasta luego");
 		  
 		  return strings;
 	  }
