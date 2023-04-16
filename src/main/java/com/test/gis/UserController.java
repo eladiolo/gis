@@ -18,6 +18,7 @@ public class UserController {
 		  strings.add("Hola");
 		  strings.add("Adios");
 		  strings.add("Hasta luego");
+		  strings.add("Chao");
 		  
 		  return strings;
 	  }
